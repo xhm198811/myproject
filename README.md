@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 企业门户管理系统 (Enterprise Portal Management System)
 
 <p align="center">
@@ -685,3 +686,6 @@ class MyFormAdmin(admin.FormAdmin):
 <p align="center">
   <strong>企业门户管理系统</strong> - 让管理更简单
 </p>
+=======
+# myproject
+>>>>>>> 1e37e3b051914f65961779517dd29da09258b948
